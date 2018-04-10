@@ -1,0 +1,2 @@
+curl https://www.googleapis.com/oauth2/v1/tokeninfo?access_token=$(gcloud auth application-default print-access-token)
+
