@@ -510,7 +510,7 @@
   - [[https://www.codementor.io/garethdwyer/building-a-telegram-bot-using-python-part-1-goi5fncay][Building a Chatbot using Telegram and Python]]
   - [[https://github.com/python-telegram-bot/python-telegram-bot][python-telegram-bot]]
   - [[https://core.telegram.org/bots/api][Telegram Bot API]]
-
+  - [https://github.com/BCNDojos/pyDojos/blob/telegram-bot/telegram-bot/telegram-bot.org]
 #+BEGIN_SRC sh :results silent :exports none
   conda info -e | grep mybot && conda env remove -y -n mybot
   rm *.py
